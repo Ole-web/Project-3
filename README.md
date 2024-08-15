@@ -14,39 +14,34 @@ Responsive Design: Optimized for mobile and desktop views.
 Installation
 Clone the repository:
 
-bash
-Code kopieren
+
 git clone https://github.com/yourusername/mern-social-media.git
 cd mern-social-media
 Install server dependencies:
 
-bash
-Code kopieren
+
 cd server
 npm install
 Install client dependencies:
 
-bash
-Code kopieren
+
 cd ../client
 npm install
 Set up environment variables:
 
 Create a .env file in the server directory with the following:
 makefile
-Code kopieren
+
 MONGO_URL=<Your MongoDB Connection String>
 JWT_SECRET=<Your JWT Secret>
 Start the development servers:
 
 Start the server:
-bash
-Code kopieren
+
 cd server
 npm run dev
 Start the client:
-bash
-Code kopieren
+
 cd client
 npm start
 Open your browser and navigate to http://localhost:3000.
