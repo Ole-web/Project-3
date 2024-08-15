@@ -1,5 +1,9 @@
 MERN Social Media App
-This project is a full-stack social media application built with the MERN (MongoDB, Express, React, Node.js) stack. It features user authentication, post creation, liking posts, and a dark mode toggle.
+
+
+
+This project is a full-stack social media application built with the MERN (MongoDB, Express, React, Node.js) stack. 
+It features user authentication, post creation, liking posts, and a dark mode toggle.
 
 Features
 User Authentication: Sign up and log in with secure authentication using JWT.
